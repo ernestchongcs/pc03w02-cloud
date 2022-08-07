@@ -1,3 +1,3 @@
 # pc03w02-cloud
 
-Add new file at index.html
+Add new file for index.html
